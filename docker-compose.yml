@@ -1,0 +1,13 @@
+version: '3'
+services:
+  shortlink:
+    build: ./url-shortener-backend
+    container_name: shortlink
+    ports:
+      - 7000:7000
+
+  shortlink-ui:
+    build: ./url-shortener-ui
+    container_name: shortlink-ui
+    ports:
+      - 7001:7001

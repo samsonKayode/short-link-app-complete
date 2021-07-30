@@ -47,8 +47,10 @@ database that and expose the REST endpoints that can be consumed by
 frontend.
 
 Full list of available REST endpoints could be found in Swagger UI,
-which can be accessed via: **http://localhost:8080/api/swagger-ui.html**
+which can be accessed via: **http://localhost:7000/api/swagger-ui.html**
 
+#### Frontend
 
+The frontend template was gotten from Creative Tim, I also gave credit on the UI.
 
 

@@ -26,6 +26,12 @@ The entry point for a user is a website which is available under the address: **
 
 ### How To Run The Project
 
+Firstly, clone the repo:
+
+```
+$ git clone --recurse-submodules https://github.com/samsonKayode/short-link-app-complete.git
+```
+
 ####In order to run this application you need to install two tools: Docker & Docker Compose.
 
 The entire application can be run with a single command on a terminal:
